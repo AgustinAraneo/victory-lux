@@ -1354,6 +1354,7 @@ textarea.is-invalid {
   border-color: var(--theme-color) !important;
 }
 
+
 /*------------------- 2.5. Mobile Menu -------------------*/
 .mobile-menu-wrapper {
   position: fixed;
